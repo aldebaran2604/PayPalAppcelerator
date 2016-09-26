@@ -1,0 +1,3 @@
+"C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/build/generated/java/com/bea/paypal/ModulopaypalBootstrap.java"
+"C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/src/com/bea/paypal/ModulopaypalModule.java"
+"C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/src/com/bea/paypal/Payment.java"

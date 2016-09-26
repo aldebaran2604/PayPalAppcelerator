@@ -1,0 +1,16 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name ModulopaypalBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "com.bea.paypal.ModulopaypalModule.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+com.bea.paypal.ModulopaypalModule,::com::bea::paypal::ModulopaypalModule::bindProxy,::com::bea::paypal::ModulopaypalModule::dispose
+%%

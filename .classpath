@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="android/src"/>
+	<classpathentry kind="src" path="android/build/.apt_generated"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lpadilla/AppData/Local/Android/sdk/platforms/android-23/android.jar"/>
+	<classpathentry kind="lib" path="C:/ProgramData/Titanium/mobilesdk/win32/5.2.2.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="C:/ProgramData/Titanium/mobilesdk/win32/5.2.2.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="C:/ProgramData/Titanium/mobilesdk/win32/5.2.2.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/lib/okhttp-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/lib/okio-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lpadilla/Documents/Appcelerator_Studio_Workspace/modulopaypal/android/lib/PayPalAndroidSDK-2.14.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
